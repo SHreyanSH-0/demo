@@ -1,0 +1,9 @@
+git init
+
+// changes
+
+
+git add .
+
+
+git commit -m "message"
